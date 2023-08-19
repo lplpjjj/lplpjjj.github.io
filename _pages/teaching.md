@@ -2,11 +2,30 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I teach undergraduate and graudate level courses at both USC and CUHK in areas such as introductory communication theories, communication and technology, advocacy and persuasion, and advanced research methods.
 
-Organize your courses by years, topics, or universities, however you like!
+**[University of Southern California](https://www.usc.edu)**
+
+|Semester  | Course   | Course Title                      | Role |
+|------------|----------|-----------------------------------|------|
+|2023 Fall   |  COMM309 |  Communication and Technology     | Teaching Assistant |
+|2023 Summer | COMM322  | Argumentation and Advocacy        | **Standalone Instructor**|
+|2022 Fall   |  COMM200 |  Communication and Social Science    | Teaching Assistant|
+|2020 Fall   |  CMGT540 |  Use of Communication Research | Teaching Assistant|
+
+<br/><br/>
+
+**[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)**
+
+|Semester    | Course   | Course Title                      | Role |
+|------------|----------|-----------------------------------|------|
+|2019 Spring | COMM3420 |  Professional Ethics and Media Criticism | Teaching Assistant |
+|2018 Fall | COMM3420   | Professional Ethics and Media Criticism  | Teaching Assistant |
+|2018 Spring |  COMM1120 |  Development of Mass Media | Teaching Assistant|
+|2017 Fall   |  COMM3420 |  Professional Ethics and Media Criticism | Teaching Assistant|
+

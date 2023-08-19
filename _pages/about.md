@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Annenberg School for Communication and Journalism, USC</a>. Los Angeles, California.
+subtitle: <a href='https://www.usc.edu'>University of Southern California</a>. Los Angeles, California.
 
 profile:
   align: right
@@ -14,12 +14,18 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am a Ph.D. candidate at the [Annenberg School for Communication and Journalism at the University of Southern California](https://annenberg.usc.edu). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! I am a Ph.D. candidate at the [Annenberg School for Communication and Journalism, USC](https://annenberg.usc.edu). My research centers on the convergence of **advocacy communication, social justice, and social networks**. I draw heavily on network theory and ecological perspectives to explain communication behaviors and outcomes in digital advocacy. I am co-supervised by [Prof. Larry Gross](https://annenberg.usc.edu/faculty/larry-p-gross) and [Prof. Lindsay Young](https://annenberg.usc.edu/faculty/lindsay-young).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I employ a diverse range of **quantitative and computational analytical tools**, including inferential network modeling, machine learning, natural language processing (NLPs), structural equation modeling, and path analysis. Qualitative methods such as in-depth interviews and participatory observation complement my research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Specifically, my ongoing and future research agenda revolves around three major themes: (1) strategic and advocacy communication with a focus on ethnic, sexual, and gender minority groups in complex information and media environments; (2) information dynamics and social networks that influence policy, health, and risk communication outcomes; (3) political attitudes and behaviors in digital intergroup contexts.
+
+**I am looking for academic positions in fields such as communication, information sicence, and computational social science in the recruitment cycle 2023-2024.**
+
