@@ -1,34 +1,39 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Chang":
+  - firstname: ["Herbert Ho-Chun", "Herbert", "H. C. H"]
+    url: https://www.herbert-chang.com
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Li":
+  - firstname: ["Gabriel Miao", "G. M."]
+    url: https://www.chapman.edu/our-faculty/gabriel-li
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Lee":
+  - firstname: ["Francis L. F.", "F. L. F.", "Francis Lap Fung"]
+    url: https://www.com.cuhk.edu.hk/peoples/lee-francis-l-f/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Nan":
+  - firstname: ["Yuanfeixue", "Y."]
+    url: https://annenberg.usc.edu/phd-students/yuanfeixue-nan
+    
+"Schneider":
+  - firstname: ["John A.", "J. A."]
+    url: https://pbhs.uchicago.edu/faculty/john-schneider-md
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wang":
+  - firstname: ["Jian", "J.]"]
+    url: https://uscpublicdiplomacy.org/users/jay_wang
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Yan":
+  - firstname: ["Bei", "B."]
+    url: https://sites.google.com/view/beiyan/home?authuser=1
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Yang":
+  - firstname: ["Aimei", "A."]
+    url: https://scholar.google.com/citations?user=rSgJrPUAAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Young":
+  - firstname: ["Lindsay E.", "Lindsay", "L. E."]
+    url: https://scholar.google.com/citations?user=QTknNjsAAAAJ&hl=en
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Zhen":
+  - firstname: ["Lichen", "L."]
+    url: https://scholar.google.com/citations?user=C3xT0MMAAAAJ&hl=en
