@@ -24,5 +24,5 @@ I employ a diverse range of **quantitative and computational analytical tools**,
 
 Specifically, my ongoing and future research agenda revolves around three major themes: (1) strategic and advocacy communication with a focus on ethnic, sexual, and gender minority groups in complex information and media environments; (2) information dynamics and social networks that influence policy, health, and risk communication outcomes; (3) political attitudes and behaviors in digital intergroup contexts.
 
-**I am looking for academic positions in fields such as communication, information sicence, and computational social science in the recruitment cycle 2023-2024.**
+**I am looking for academic positions in fields such as communication, information science, and computational social science in the recruitment cycle 2023-2024.**
 

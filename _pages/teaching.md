@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I teach undergraduate and graudate level courses at both USC and CUHK in areas such as introductory communication theories, communication and technology, advocacy and persuasion, and advanced research methods.
+I teach undergraduate and graduate level courses at both USC and CUHK in areas such as introductory communication theories, communication and technology, advocacy and persuasion, and advanced research methods.
 
 **[University of Southern California](https://www.usc.edu)**
 
