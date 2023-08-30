@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.usc.edu'>University of Southern California</a>. Los Angeles, California.
+subtitle: 
 
 profile:
   align: right
