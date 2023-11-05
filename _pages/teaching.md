@@ -11,8 +11,9 @@ I teach undergraduate and graduate level courses at both USC and CUHK in areas s
 
 **[University of Southern California](https://www.usc.edu)**
 
-|Semester  | Course   | Course Title                      | Role |
+|Semester    | Course   | Course Title                      | Role |
 |------------|----------|-----------------------------------|------|
+|2024 Spring |  COMM550 |  Quantitative Research Methods in Communication (PhD Core Course)     | Teaching Assistant |
 |2023 Fall   |  COMM309 |  Communication and Technology     | Teaching Assistant |
 |2023 Summer | COMM322  | Argumentation and Advocacy        | **Standalone Instructor**|
 |2022 Fall   |  COMM200 |  Communication and Social Science    | Teaching Assistant|
