@@ -7,7 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-I teach undergraduate and graduate level courses at both USC and CUHK in areas such as introductory communication theories, communication and technology, advocacy and persuasion, and advanced research methods.
+I teach undergraduate and graduate level courses at Alabama, USC, and CUHK in areas such as crisis communication, introductory communication theories, communication and technology, advocacy and persuasion, and advanced research methods.
+
+**[The University of Alabama](https://www.ua.edu)**
+
+|Semester    | Course   | Course Title                      | Role |
+|------------|----------|-----------------------------------|------|
+|2024 Fall |  APR425 |  Crisis & Emergency Management     | **Instructor** |
+
+<br/><br/>
 
 **[University of Southern California](https://www.usc.edu)**
 
@@ -15,7 +23,7 @@ I teach undergraduate and graduate level courses at both USC and CUHK in areas s
 |------------|----------|-----------------------------------|------|
 |2024 Spring |  COMM550 |  Quantitative Research Methods in Communication (PhD Core Course)     | Teaching Assistant |
 |2023 Fall   |  COMM309 |  Communication and Technology     | Teaching Assistant |
-|2023 Summer | COMM322  | Argumentation and Advocacy        | **Standalone Instructor**|
+|2023 Summer | COMM322  | Argumentation and Advocacy        | **Instructor**|
 |2022 Fall   |  COMM200 |  Communication and Social Science    | Teaching Assistant|
 |2020 Fall   |  CMGT540 |  Use of Communication Research | Teaching Assistant|
 
