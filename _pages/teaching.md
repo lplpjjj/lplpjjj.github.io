@@ -14,6 +14,13 @@ I teach undergraduate and graduate level courses at Alabama, USC, and CUHK in ar
 |Semester    | Course   | Course Title                      | Role |
 |------------|----------|-----------------------------------|------|
 |2024 Fall |  APR425 |  Crisis & Emergency Management     | **Instructor** |
+|2025 Spring |  APR433 |  Public Relations Campaign     | **Instructor** |
+|2025 Spring |  APR524|  Reputation Communication Strategy     | **Instructor** |
+|2025 Summer |  APR453 |  Investiation & Insights     | **Instructor** |
+|2025 Fall |  APR453 |  Investiation & Insights      | **Instructor** |
+|2025 Fall |  APR425 |  Crisis & Emergency Management     | **Instructor** |
+|2026 Spring |  APR433 |  Public Relations Campaign     | **Instructor** |
+|2026 Spring |  APR524|  Reputation Communication Strategy     | **Instructor** |
 
 <br/><br/>
 

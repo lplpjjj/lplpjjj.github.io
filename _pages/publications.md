@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: <h5>You can find my peer-reviewed publications below or on my <a href = 'https://scholar.google.com/citations?user=9B1Rs6sAAAAJ&hl=en'>Google Scholar page</a>.</h5>
-years: [2024,2023,2022,2020]
+description: <h5>You can find my peer-reviewed publications below or on my <a href = 'https://scholar.google.com/citations?user=fUk-MSIAAAAJ&hl=en'>Google Scholar page</a>.</h5>
+years: [2026, 2024,2023,2022,2020]
 nav: true
 nav_order: 1
 ---
